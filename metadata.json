@@ -1,0 +1,8 @@
+{
+  "name": "Decensat - C3 Guidance Portal",
+  "description": "An AI-powered project management and treasury guidance portal by Decensat, featuring automated milestone tracking, real-time payment reflection, and Gemini-driven guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
